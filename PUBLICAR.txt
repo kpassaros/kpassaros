@@ -1,0 +1,18 @@
+PERFIL GITHUB — KAÍQUE PASSAROS
+
+1. Este pacote pertence ao repositório público kpassaros/kpassaros.
+   Não substitua o README de portfolio ou de outro projeto.
+2. Se o repositório de perfil não existir, crie um repositório público com o nome kpassaros.
+3. Se já existir, preserve o README e assets atuais como rollback. Crie uma branch a partir da main.
+4. Envie README.md e a pasta assets/ mantendo essa estrutura.
+   PUBLICAR.txt é uma orientação local; não precisa ser enviado.
+5. Commit sugerido: docs: apresenta perfil de dados e transformação digital
+6. No repositório existente, revise pela Pull Request antes do merge.
+7. Após publicar, valide banner e cards no perfil, desktop e celular; teste os links e serviços dinâmicos.
+
+A paleta usa preto #080C12, azul-base #12284C e azul claro #88B3E8.
+Os SVGs são as fontes editáveis; os PNGs são usados pelo README.
+Typing, ícones, badges, stats, top languages, streak e activity graph usam serviços externos.
+Não exigem token no pacote. A disponibilidade remota e a renderização final no GitHub não foram homologadas aqui.
+Nenhum número de contribuição, ranking ou resultado profissional foi inventado.
+A lista de projetos é dos quatro repositórios públicos encontrados; não inclui repositórios privados.
