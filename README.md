@@ -85,18 +85,6 @@ Modelagem dimensional · Star Schema · ETL / ELT · Qualidade e governança de 
 
 ## O que estou construindo
 
-### [FutureViz Components](https://github.com/kpassaros/futureviz-bi-components)
-
-Componentes para **Power BI, DataStudio e Web**. A proposta é tirar o atrito entre uma boa visualização e sua aplicação: prévia ao vivo, código completo, pouca configuração e temas claro e escuro.
-
-[Explorar a biblioteca ↗](https://kpassaros.github.io/futureviz-bi-components/)
-
-### [Prisma Central](https://github.com/kpassaros/prisma-central)
-
-Uma demonstração de **qualidade e conciliação entre ERP, CRM e Omnichannel**. Python, SQLite, APIs locais e snapshots rastreáveis ajudam a investigar divergências sem esconder as regras. Usa apenas dados sintéticos; não é um serviço de produção.
-
-[Conhecer o projeto ↗](https://github.com/kpassaros/prisma-central#readme)
-
 ### [Portfólio Dados & BI](https://github.com/kpassaros/portfolio)
 
 O lugar onde reúno os cases, as decisões e a evolução dos projetos. Construído com **Astro e GitHub Pages**, com validação e deploy por GitHub Actions.
@@ -105,9 +93,23 @@ No site: **CashFlow Intelligence**, **FutureViz Components** e **FutureViz Lab**
 
 [Visitar o portfólio ↗](https://kpassaros.github.io/portfolio/)
 
-### [POC Astro · portfolio-dados-bi](https://github.com/kpassaros/portfolio-dados-bi)
+### [FutureViz Components](https://github.com/kpassaros/futureviz-bi-components)
 
-Repositório experimental da prova de conceito Astro. Faz parte da trajetória de construção da arquitetura do portfólio; o projeto principal está em `portfolio`.
+Componentes para **Power BI, DataStudio e Web**. A proposta é tirar o atrito entre uma boa visualização e sua aplicação: prévia ao vivo, código completo, pouca configuração e temas claro e escuro.
+
+[Explorar a biblioteca ↗](https://kpassaros.github.io/futureviz-bi-components/)
+
+### [Prisma Central](https://github.com/kpassaros/prisma-central) [Novo]
+
+Uma demonstração de **qualidade e conciliação entre ERP, CRM e Omnichannel**. Python, SQLite, APIs locais e snapshots rastreáveis ajudam a investigar divergências sem esconder as regras. Usa apenas dados sintéticos; não é um serviço de produção.
+
+[Conhecer o projeto ↗](https://github.com/kpassaros/prisma-central#readme)
+
+### [Trama · Rede de conhecimento](https://github.com/kpassaros/trama) [Novo]
+
+Um projeto focado em aprendizado e acessibilidade, aprender uma ferramenta e consultar quando precisar são partes do mesmo trabalho. A Trama conecta os dois: trilhas para construir base de conhecimento de ferramentas e uma central de referências que explica a intenção, a sintaxe e os cuidados antes de aplicar um código.
+
+[Visitar a ferramenta↗](https://kpassaros.github.io/trama/index.html)
 
 ## Repositórios em números
 
